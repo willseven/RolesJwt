@@ -1,0 +1,9 @@
+Http://localhost:5000/api/Usuario/login
+{
+    "Email" : "vaxi.drez@gmail.com",
+    "Password" : "Password123$"
+}
+
+//Documento de los web services
+
+http://localhost:5000/swagger/index.html
